@@ -1,6 +1,6 @@
 # Oii! Eu sou a Fernanda 👋
 
-🎓 Estudante de Jogos Digitais na Fatec Americana
+🎓 Estudante de Jogos Digitais com interesse em IA para NPCs, gameplay e desenvolvimento frontend.
 
 💻 Tecnologias:
 
