@@ -1,16 +1,48 @@
-## Hi there 👋
+# Oii! Eu sou a Fernanda 👋
 
-<!--
-**TeuNome23/TeuNome23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Jogos Digitais na Fatec Americana
 
-Here are some ideas to get you started:
+💻 Tecnologias:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C#
+* Java
+* PHP
+* JavaScript
+* SQL
+* Godot
+
+🌱 Atualmente estudando:
+
+* Python
+
+🎮 Interesses:
+
+* Desenvolvimento de Jogos
+* Inteligência Artificial para NPCs
+* Desenvolvimento Web
+* Game Design
+
+## Projetos
+
+### 🎮 DontEatME
+
+Meu primeiro jogo desenvolvido em Unity.
+
+### 🎮 Warped City
+
+Jogo de plataforma 2D focado em exploração e progressão de fases.
+
+### 🔗 Encurtador de URL
+
+Aplicação desenvolvida para criação e gerenciamento de URLs encurtadas.
+
+## Objetivos para 2026
+
+* Aprimorar conhecimentos em Python
+* Desenvolver projetos completos para portfólio
+* Evoluir como desenvolvedora de jogos
+* Contribuir para projetos colaborativos
+
+## Contato
+
+📧 [nmarabin@gmail.com](mailto:nmarabin@gmail.com)
