@@ -66,3 +66,9 @@ Aplicação desenvolvida para criação e gerenciamento de URLs encurtadas.
 ## 📫 Contato
 
 📧 [nmarabin@gmail.com](mailto:nmarabin@gmail.com)
+
+## 📊 Estatísticas
+
+![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeuNome23&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeuNome23&layout=compact&theme=tokyonight)
